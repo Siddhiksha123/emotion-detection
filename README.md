@@ -1,3 +1,4 @@
+![_6e3eedb0-2fc2-4f14-ac8a-3ace497b3c11](https://github.com/Siddhiksha123/emotion-detection/assets/93310417/833d2007-3fda-4477-abde-5c2251a17926)
 Emotion Detection Project
 Overview
 This project aims to detect and classify human emotions from text, audio, or image inputs. It utilizes machine learning and deep learning techniques to analyze input data and predict the corresponding emotions.
